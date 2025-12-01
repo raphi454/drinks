@@ -1,0 +1,19 @@
+{
+    "name": "raphi454/drinks",
+    "description": "A drink library",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Raphi454\\Drinks\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rsteger",
+            "email": "rsteger@schueler.hakzell.at"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
